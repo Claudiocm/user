@@ -2,10 +2,11 @@
 
 ### Stack
 - Spring boot 3.1.9
-- Spring security 
+- Spring security
+- JWT 0.9.1
 - java 17
 - kotlin 1.8
-- mysql
+- Mongodb
 - Intellij
 
 ### Task
