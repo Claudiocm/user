@@ -1,9 +1,10 @@
 ## Projeto gerenciamento de acesso de usuários para microsservices
 
 ### Stack
-- Spring boot security
+- Spring boot 3.1.9
+- Spring security 
 - java 17
-- kotlin
+- kotlin 1.8
 - mysql
 - Intellij
 
